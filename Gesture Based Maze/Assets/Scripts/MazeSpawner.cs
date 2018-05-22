@@ -93,5 +93,5 @@ public class MazeSpawner : MonoBehaviour {
 				}
 			}
 		}
-	}
+    }
 }// End of MazeSpawner

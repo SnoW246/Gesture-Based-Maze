@@ -102,6 +102,7 @@ MonoBehaviour:
   JumpSound: {fileID: 0}
   HitSound: {fileID: 0}
   CoinSound: {fileID: 0}
+  speed: 100
 --- !u!135 &13582488
 SphereCollider:
   m_ObjectHideFlags: 1
