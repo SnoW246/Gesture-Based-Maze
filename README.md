@@ -18,4 +18,4 @@ Randomly generated maze game which interprets gesture based controls using Myo A
 * Myo sdk 0.9.0 or later
 
 ## Demo
-![Demo](https://github.com/SnoW246/Gesture-Based-Maze/issues/1)
+![Demo](https://user-images.githubusercontent.com/15648358/40366220-837a0ba4-5dce-11e8-9ebf-b285247f9c87.gif)
